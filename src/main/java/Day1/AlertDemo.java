@@ -1,5 +1,9 @@
 package Day1;
 
+/*
+ * To test and verify the alert session
+ */
+
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
