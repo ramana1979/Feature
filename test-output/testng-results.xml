@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40737" started-at="2019-12-03T17:01:07Z" finished-at="2019-12-03T17:01:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40737" started-at="2019-12-03T17:01:07Z" finished-at="2019-12-03T17:01:48Z">
+      <class name="Day2.ActionsWithKeyboard">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Day2.ActionsWithKeyboard@3bfdc050]" name="setup" is-config="true" duration-ms="9970" started-at="2019-12-03T17:01:07Z" finished-at="2019-12-03T17:01:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="actionTest()[pri:0, instance:Day2.ActionsWithKeyboard@3bfdc050]" name="actionTest" duration-ms="30539" started-at="2019-12-03T17:01:17Z" finished-at="2019-12-03T17:01:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actionTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Day2.ActionsWithKeyboard@3bfdc050]" name="tearDown" is-config="true" duration-ms="148" started-at="2019-12-03T17:01:48Z" finished-at="2019-12-03T17:01:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Day2.ActionsWithKeyboard -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
