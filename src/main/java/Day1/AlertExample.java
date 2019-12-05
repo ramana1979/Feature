@@ -1,3 +1,6 @@
+/*
+ * Alert example demo session for practice
+ */
 package Day1;
 
 import org.openqa.selenium.Alert;
