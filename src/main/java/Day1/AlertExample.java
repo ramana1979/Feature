@@ -12,14 +12,17 @@ public class AlertExample {
 	public Alert getAlert() {
 		return driver.switchTo().alert();
 	}
-
+/*
+ * Accept the alert 
+ */
 	public void acceptAlert() {
 		getAlert().accept();
 	}
-
+//Dismiss the alert
 	public void dismissAlert() {
 		getAlert().dismiss();
 	}
+	//return alert string 
 	public String alertText()
 	{
 		return getAlert().getText();
